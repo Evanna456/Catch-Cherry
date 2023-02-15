@@ -1,4 +1,4 @@
-## About Catch-Cherry
+## Catch-Cherry
 
 Catching Cherries Game.
 
@@ -8,7 +8,7 @@ Catching Cherries Game.
 
 > Under Development.
 
-## About Godot
+## Godot
 
 <p align="center"><img src="https://i.imgur.com/dowa7Ts.png" width="150px" height="auto" alt="Logo"></a></p>
 
