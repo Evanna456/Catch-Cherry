@@ -4,7 +4,7 @@ Catching Cherries Game.
 
 ## Usage
 
-* 1.)Run Executable.
+* 1.)Run the App.
 
 ## Godot
 
