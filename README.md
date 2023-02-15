@@ -6,8 +6,6 @@ Catching Cherries Game.
 
 * 1.)Run Executable.
 
-> Under Development.
-
 ## Godot
 
 <p align="center"><img src="https://i.imgur.com/dowa7Ts.png" width="150px" height="auto" alt="Logo"></a></p>
