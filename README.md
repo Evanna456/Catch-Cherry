@@ -1,4 +1,4 @@
-## About Godot-Catch-Cherry-Game
+## About Catch-Cherry
 
 Catching Cherries Game.
 
@@ -8,7 +8,7 @@ Catching Cherries Game.
 
 > Under Development.
 
-## About C#
+## About Godot
 
 <p align="center"><img src="https://i.imgur.com/dowa7Ts.png" width="150px" height="auto" alt="Logo"></a></p>
 
@@ -19,4 +19,4 @@ Godot is a cross-platform, free and open-source game engine released under the M
 
 ## License
 
-Godot-Catch-Cherry-Game is licensed under [MIT](https://choosealicense.com/licenses/mit/)
+Catch-Cherry is licensed under [MIT](https://choosealicense.com/licenses/mit/)
